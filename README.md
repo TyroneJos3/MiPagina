@@ -5,7 +5,23 @@ Taller redes
 ## Elementos Constructivos
 
 ### Canaletas
+Es un canal de PVC que, además de proteger los cables, facilita su distribución. Se utiliza para 
+fijar cables a la pared tanto vertical como horizontalmente. Está provisto en toda su longitud 
+de marcas para facilitar el corte, además de su acoplamiento con otras canaletas, bien sea en 
+forma de T o de L y para la salida de cables. Se compone de un canal, que es la parte que se 
+sujeta a la pared y donde van los cables, y una tapa que puede estar integrada o no en el canal.
+![canaletas](imagen/ges.jpg)
+![canaletas](imagen/dee.webp)
+[ver video sobre canaletas](https://www.youtube.com/embed/VKJ_mSnunog?si=a5_AueMyvx6bbcfh )
 
+###Face Plate
+El Face Plate Sencillo FP1 es una tapa de plástico de la caja de toma de datos que se encuentran en 
+las paredes o bandejas sobrepuestas y se utilizan para conectar las máquinas de red estructuradas, 
+estos faceplate se adaptan a cualquier conector tipo keystone. El Face Plate Sencillo FP1 permite 
+opciones multipuerto que nos permite acomodar una gran variedad de configuraciones de red.
+![Face Plate](imagen/facep.jpg)
+![Face Plate](imagen/plate.jpg)
+![Face Plate](https://www.youtube.com/embed/zZBd5qPOZjg?si=Tzd07Mj6hl-QuEj8 )
 
 ### Falso Techo
 
