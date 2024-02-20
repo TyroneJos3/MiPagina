@@ -228,3 +228,7 @@ cable con los pins que se encuentran dentro del Jack. La herramienta de punción
 
 ![Ponchadora de impacto](img/impact.png)
 ![ver video sobre Ponchadora de impacto](https://www.youtube.com/embed/vSA2OgkC__k?si=a7yw-D78u3Q0h1QT)
+
+### hecho por
+Jose Gabriel Portocarrero
+cod: 2157631-2724
