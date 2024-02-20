@@ -4,6 +4,9 @@ Taller redes
 <br>
 ## Elementos Constructivos
 
+### Canaletas
+
+
 ### Falso Techo
 
 Un falso techo es un elemento metálico que se instala en la parte superior de una vivienda u oficina. Su objetivo principal es ocultar instalaciones y cableado, pero también desempeña una doble función acústica y decorativa.
