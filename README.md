@@ -94,6 +94,48 @@ informáticas, pueden existir cables de conexión también para otros tipos de c
 ![Patch cord](imagen/cable.jpg)
 ![ver video sobre Patch cord](https://www.youtube.com/embed/WliUTt6_ERc?si=vkobdzPmd1QwP8hh )
 
+### Fibra optica multimodo y monomodo
+La fibra multimodo ofrece una distancia máxima mucho más corta que la fibra monomodo, siendo la opción ideal para aplicaciones 
+locales. La fibra monomodo puede llegar a cubrir distancias de 40 km o más, sin dañar la señal, siendo ideal para aplicaciones 
+de largo alcance.
+
+![Fibra optica multimodo y monomodo](img/fibra.jpg)
+![Fibra optica multimodo y monomodo](img/gdg.gif)
+![ver video sobre Fibra optica multimodo y monomodo](https://www.youtube.com/embed/DOmrnxuTlf0?si=Pcv4zeGrLop-HyRi)
+
+### Union de fibra optica por empalme mecanico
+El empalme mecánico consiste en la unión de dos fibras ópticas mediante dispositivos mecánicos, asegurando una alineación precisa 
+y una conexión estable. A diferencia de los empalmes por fusión, el empalme mecánico no requiere de equipos caros lo que lo 
+convierte en una opción rentable y accesible para todos.
+
+![Union de fibra optica por empalme mecanico](img/meca.jpg)
+![Union de fibra optica por empalme mecanico](img/emp.jpg)
+![ver video sobre Union de fibra optica por empalme mecanico](https://www.youtube.com/embed/g0J8hBNMU98?si=Tx-Y3EQWSuebg7xP)
+
+### Union fibra optica por funsion termica
+Este proceso, conocido como fusión, consiste en fundir los revestimientos de dos fibras, mediante la aplicación de una fuente calorífica, producida por dos electrodos que generan un arco eléctrico, cuando se les aplica una fuente de alta tensión, de 
+4000 a 5000 voltios con corriente controlada.
+
+![Union fibra optica por funsion termica](img/fus.png)
+![ver video sobre Union fibra optica por funsion termica](https://www.youtube.com/embed/z4BVzXFxo50?si=QtuidxGqhnbdHV0y)
+
+### Conectores para fibra optica
+El conector de fibra óptica que viene en varias configuraciones y tipos se considera como un componente importante para el cable de fibra óptica. En general, los diferentes tipos de conectores de cable de fibra se pueden clasificar de acuerdo con las diferentes 
+normas como la utilización, el número de fibras, el modo de fibra, el método de transmisión, los medios de transmisión, la longitud 
+de arranque, el tipo de pulido y la forma de terminación, etc. Siga este artículo para clasificar los tipos de conectores de fibra.
+Los siguientes tipos de conectores de fibra, al igual que los conectores de fibra óptica LC/SC/MTP/MPO/ST, requieren un panel adaptador para su conexión. Los cables de fibra con estos tipos de conectores ópticos suelen utilizarse en centros de datos, salas de telecomunicaciones, redes empresariales, etc.
+
+![Conectores para fibra optica](img/tipo.png)
+![ver video sobre Conectores para fibra optica](https://www.youtube.com/embed/YLH81B_f_o8?si=Bev8zoSs12PjbGqJ)
+
+### piso falso
+Un piso falso o también conocido como piso elevado, es un sistema de estructuras que soportan paneles, dichas estructuras se colocan sobre otro piso logrando que haya un espacio entre ellos. El espacio logrado permite el paso de instalaciones eléctricas, cableado estructurado, aire acondicionado, drenajes y tuberías de agua potable mejorando la estética del lugar ya que evita la visibilidad de todo este cableado.
+La estructura del piso falso se diseña para soportar cierta cantidad de peso, esto depende de las especificaciones de cada fabricante, pero debe calcularse en base al peso de equipos, personal, muebles y toda la infraestructura que este piso estará cargando.
+Algunas de las principales ventajas es que se tiene acceso al subsuelo en cualquier momento para cambiar cableado o hacer reparaciones, hay un ahorro en tiempo y dinero ya que es un sistema fácil de instalar y brinda una protección contra el ruido y la temperatura ya que el aire fluye de mejor manera por el espacio evitando que se caliente.
+
+![piso falso](img/piso.jpg)
+![ver video sobre piso falso](https://www.youtube.com/embed/pJP1L5iCoI0?si=k82PipWMYafNVcBy)
+
 ### Falso Techo
 
 Un falso techo es un elemento metálico que se instala en la parte superior de una vivienda u oficina. Su objetivo principal es ocultar instalaciones y cableado, pero también desempeña una doble función acústica y decorativa.
