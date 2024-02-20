@@ -2,4 +2,4 @@
 Taller redes
 <br>
 <br>
-## [Redes.html]()
+## [taller-redes](https://github.com/TyroneJos3/MiPagina/edit/main/taller-redes)
